@@ -1,3 +1,7 @@
 .Dictionary {
   background-color: rgb(181, 157, 204);
 }
+input {
+  display: block;
+  margin: auto;
+}
