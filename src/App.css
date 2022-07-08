@@ -1,12 +1,22 @@
 header {
   font-size: 30px;
   text-align: center;
-  margin-bottom: 40px;
+  margin: 30px 0;
+}
+body {
+  background-color: rgb(234, 225, 243);
 }
 .App-footer {
   text-align: center;
   margin: 30px 0;
 }
-.container {
-  margin: 75px 50px;
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.App-header {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
